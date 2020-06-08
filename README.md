@@ -4,10 +4,10 @@
 ## Screenshot
 
 
-[Razorpay Pub: ](https://pub.dev/packages/razorpay_flutter)
+Razorpay Pub : [https://pub.dev/packages/razorpay_flutter: ](https://pub.dev/packages/razorpay_flutter)
 
 
-[Console: ](https://dashboard.razorpay.com)
+Console: [https://flutter.dev/docs](https://flutter.dev/docs)
 
 
 
